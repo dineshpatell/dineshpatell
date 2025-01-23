@@ -49,9 +49,9 @@ Welcome to my GitHub profile! I'm passionate about Physics, Artificial Intellige
 ---
 
 ## 🤝 Let's Connect!
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio/Website](#)  
-- 📧 Email: [dineshh.patell@gmail.com]
+- 💼 [LinkedIn](www.linkedin.com/in/dineshhpatell)  
+- 🌐 [Portfolio/Website](https://dineshpatell.github.io/dineshpatel.github.io/)  
+- 📧 Email: dineshh.patell@gmail.com
 
 ---
 
